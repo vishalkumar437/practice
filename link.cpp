@@ -1,14 +1,16 @@
 #include<iostream>
+using namespace std;
 class node{
     public:
 int data;
 node* next;
 int data;
-node(int d);
+node(int d){
 data=d;
+}
 };
 void create(node *head,int data){
-node *n=new node(int data);
+node *n=new node(data);
 node *t=head;
 if(head==NULL)
 {
@@ -17,7 +19,7 @@ if(head==NULL)
 }
 else{
     while(t->next!=NULL){
-        t=t->null;
+        t=t->next;
     }
     t->next=n;
 }
@@ -28,7 +30,7 @@ void display(node *head)
     while(t->next!=NULL)
     {
         cout<<t->data;
-        cout<<"->"<<;
+        cout<<"->";
         t=t->next;
     }
     cout<<t->next;
