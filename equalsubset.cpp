@@ -35,7 +35,7 @@ for(int i=0;i<4;i++)
     if(s%2!=0)
     cout<<"false";
     else
-        //check(arr,4,s/2);
+        check(arr,4,s/2);
 
     return 0;
  }
