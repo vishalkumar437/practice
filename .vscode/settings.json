@@ -33,5 +33,9 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "queue": "cpp"
+  }
 }
