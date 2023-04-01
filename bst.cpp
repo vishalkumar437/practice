@@ -107,28 +107,66 @@ void deletion(node* root,int data){
 
 }
 
+int height(node* root){
+
+    if(root==NULL){
+        return 0;
+    }
+    int left=height(root->left);
+    int right=height(root->right);
+
+    if(left>right)
+        return left+1;
+    else
+        return right+1;
+}
+void printCurrlevel(node* root,int l){
+    if(root==NULL){
+        return;
+    }
+    if(l==1){
+        cout<<root->data<<"\t";
+    }
+    else if(l>1){
+        printCurrlevel(root->left,l-1);
+        printCurrlevel(root->right,l-1);
+    }
+}
+
+void levelorder(node* root){
+
+    int h=height(root);
+    int i;
+    for(i=1;i<=h;i++)
+        printCurrlevel(root,i);
+
+}
+
+
 
 int main(){
 
 
     node* root = NULL;
     root = insertion(root, 45);  
-  root = insertion(root, 30);  
-  root = insertion(root, 50);  
-  root = insertion(root, 25);  
-  root = insertion(root, 35);  
-  root = insertion(root, 45);  
-  root = insertion(root, 60);  
-  root = insertion(root, 4);  
-  printf("The inorder traversal of the given binary tree is - \n");  
-  inorder(root);  
-  deletion(root, 25);  
-  printf("\nAfter deleting node 25, the inorder traversal of the given binary tree is - \n");  
-  inorder(root);   
-  insertion(root, 2);  
-  printf("\nAfter inserting node 2, the inorder traversal of the given binary tree is - \n");  
-  inorder(root);  
-  return 0;  
+    root = insertion(root, 30);  
+    root = insertion(root, 50);  
+    root = insertion(root, 25);  
+    root = insertion(root, 35);  
+    root = insertion(root, 45);  
+    root = insertion(root, 60);  
+    root = insertion(root, 4);  
+    printf("The inorder traversal of the given binary tree is - \n");  
+    inorder(root);  
+    deletion(root, 25);  
+    printf("\nAfter deleting node 25, the inorder traversal of the given binary tree is - \n");  
+    inorder(root);   
+    insertion(root, 2);  
+    printf("\nAfter inserting node 2, the inorder traversal of the given binary tree is - \n");  
+    inorder(root);  
+    cout<<"\n Level Order \n";
+    levelorder(root);
+    return 0;  
 
 
 
