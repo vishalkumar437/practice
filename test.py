@@ -44,7 +44,7 @@ def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
     )
     return pr.html_url
 
-"this is a commit message"
+"this is a another another test"
 
 if __name__ == "__main__":
     repo_url = "https://github.com/vishalkumar437/practice.git"
