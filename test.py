@@ -1,12 +1,8 @@
 from github import Github
 import os
 
-# --- Function Dependencies (Stub `generate_pr_description`) ---
-
 def generate_pr_description(report):
     return "This is a test pull request generated for report:\n" + "\n".join(str(item) for item in report)
-
-# --- Main Function (Paste your original code) ---
 
 def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
     description = generate_pr_description(report)
@@ -48,9 +44,7 @@ def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
     )
     return pr.html_url
 
-# --- Test Call ---
-
-
+"this is a commit message"
 
 if __name__ == "__main__":
     repo_url = "https://github.com/vishalkumar437/practice.git"
