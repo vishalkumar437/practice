@@ -11,7 +11,6 @@ def generate_pr_description(report):
 def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
     description = generate_pr_description(report)
 
-    # Replace this with your GitHub token (safe to use environment variables)
     github_token = os.getenv("GITHUB_TOKEN")  
     if not github_token:
         raise ValueError("GitHub token not found in environment variables. Set GITHUB_TOKEN.")
@@ -31,11 +30,12 @@ def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
     else:
         pr_title = "Code scan issue remediation with AI:"
     
-    # pulls = repo.get_pulls(head=head_branch, base=base_branch, state='open')
-    # if pulls.totalCount > 0:
-    #     for pull in pulls:
-    #         pull.edit(title=pr_title, body=description)
-    #         return pull.html_url
+    pulls = repo.get_pulls(head=head_branch, base=base_branch, state='open')
+    print(pulls.totalCount)
+    if pulls.totalCount > 0:
+        for pull in pulls:
+            pull.edit(title=pr_title, body=description)
+            return pull.html_url
 
     # Create a pull request
     pr_title = pr_title + f"  {head_branch} -> {base_branch}"
@@ -51,14 +51,14 @@ def create_remediation_pr(repo_url, head_branch, base_branch, report) -> str:
 # --- Test Call ---
 
 
+
 if __name__ == "__main__":
-    # Replace with your test values
     repo_url = "https://github.com/vishalkumar437/practice.git"
-    head_branch = "feature/test-branch"
+    head_branch = "branch-tes"
     base_branch = "main"
     report = [
-        {"file": "main.py", "issue": "Unused variable", "requirement": "Refactor the function"},
-        {"file": "utils.py", "issue": "Deprecated function usage"}
+        {"file": "main.py", "issue": "Unused variable", "requirement": "Refactor the class"},
+        {"file": "utils.py", "issue": "Deprecated class usage"}
     ]
 
     try:
