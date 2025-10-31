@@ -478,6 +478,12 @@
 175,UFD,3,Partial,potential,,
 175,UFD,4,Cannot Automate,NA,,
 175,UFD,5,To Do,potential,,
+359,UPD QA,2,2 No,potential,,
+359,UPD QA,1,1 Yes,automation|potential,,
+359,UPD QA,3,3 Partial,potential,,
+359,UPD QA,4,4 Cannot Automate,NA,,
+359,UPD QA,5,5 To Do,potential,,
+359,UPD QA,6,6 In Progress,potential,,
 177,Vibhuti Platform,1,No,potential,,
 177,Vibhuti Platform,2,Yes,automation|potential,,
 177,Vibhuti Platform,4,Cannot Automate,NA,,
@@ -512,4 +518,3 @@
 3,zSandbox - Test Suites Enabled,3,Partial,potential,,
 3,zSandbox - Test Suites Enabled,4,Cannot Automate,NA,,
 3,zSandbox - Test Suites Enabled,5,To Do,potential,,
-
