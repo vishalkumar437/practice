@@ -1,520 +1,520 @@
-1. Projects Project ID,1. Projects Project Name,2. Suites Automation Status ID,2. Suites Automation Status (Case),,,
-89,3DSW,2,,NA,,
-652,Acoustic and Media Test Eng,2,Not Automated,potential,,
-549,AI Experience Center,1,Yes,automation|potential,,
-549,AI Experience Center,2,No,potential,,
-549,AI Experience Center,3,Partial,potential,,
-549,AI Experience Center,4,Cannot Automate,NA,,
-740,AIXC,1,Yes,automation|potential,,
-740,AIXC,2,No,potential,,
-740,AIXC,3,Partial,potential,,ToolAutomationStatus
-740,AIXC,4,Cannot Automate,NA,,
-876,All-In Commerce,1,Automated,automation|potential,,
-876,All-In Commerce,2,Pending to Automate,potential,,
-876,All-In Commerce,3,Non Automatable,NA,,
-876,All-In Commerce,4,Automation In Progress,potential,,
-860,Alpha DFE,1,Manual,potential,,
-860,Alpha DFE,2,Automated,automation|potential,,
-176,CF .Integration,1,No,potential,,
-152,CFBI BIRD,1,No,potential,,
-152,CFBI BIRD,2,Yes,automation|potential,,
-152,CFBI BIRD,3,Partial,potential,,
-196,CFBI UAT Insights,1,No,potential,,
-157,CFD ARC-QA,1,No,potential,,
-157,CFD ARC-QA,2,Yes,automation|potential,,
-293,CFD BROKERy (recheck delete status on Jul 1 2025),1,No,potential,,
-293,CFD BROKERy (recheck delete status on Jul 1 2025),2,Yes,automation|potential,,
-237,CFD CBA UAT,1,No,potential,,
-237,CFD CBA UAT,2,Yes,automation|potential,,
-237,CFD CBA UAT,4,Will not be automated,NA,,
-191,CFD Device Control Center,1,No,potential,,
-191,CFD Device Control Center,2,Yes,automation|potential,,
-191,CFD Device Control Center,3,Partial,potential,,
-191,CFD Device Control Center,4,Will not be automated,NA,,
-323,CFD EOT-QA,1,No,potential,,
-323,CFD EOT-QA,2,Yes,automation|potential,,
-323,CFD EOT-QA,3,Partial,potential,,
-200,CFD HP DaaS Portal,1,No,potential,,
-200,CFD HP DaaS Portal,2,Yes,automation|potential,,
-692,CFD MPS Enterprise Catalog,1,No,potential,,
-692,CFD MPS Enterprise Catalog,2,Yes,automation|potential,,
-692,CFD MPS Enterprise Catalog,4,Will not be automated,NA,,
-671,CFD MPS ITSM,1,No,potential,,
-671,CFD MPS ITSM,2,Yes,automation|potential,,
-671,CFD MPS ITSM,3,Partial,potential,,
-671,CFD MPS ITSM,4,Will not be automated,NA,,
-168,CFD MPS SD,1,No,potential,,
-168,CFD MPS SD,2,Yes,automation|potential,,
-168,CFD MPS SD,3,Partial,potential,,
-168,CFD MPS SD,4,Will not be automated,NA,,
-169,CFD SNOW Asset Management Workstream,2,Yes,automation|potential,,
-169,CFD SNOW Asset Management Workstream,3,Partial,potential,,
-315,CFS CBA E2E SIT,1,No,potential,,
-315,CFS CBA E2E SIT,2,Yes,automation|potential,,
-163,CFS DART DaaS,1,No,potential,,
-162,CFS DART Print,1,No,potential,,
-162,CFS DART Print,2,Yes,automation|potential,,
-104,CFS DCMC,1,No,potential,,
-104,CFS DCMC,2,Yes,automation|potential,,
-104,CFS DCMC,3,Partial,potential,,
-223,CFS FleetOps - NRD/FOAP,2,Yes,automation|potential,,
-84,CFS FleetOps - SDS,1,No,potential,,
-84,CFS FleetOps - SDS,2,Yes,automation|potential,,
-84,CFS FleetOps - SDS,3,Partial,potential,,
-84,CFS FleetOps - SDS,4,Will not be automated,NA,,
-84,CFS FleetOps - SDS,5,Can be Automated,NA,,
-173,CFS Foster Workstream,1,No,potential,,
-158,CFS Managed Print Central,1,No,potential,,
-158,CFS Managed Print Central,2,Yes,automation|potential,,
-158,CFS Managed Print Central,3,Partial,potential,,
-158,CFS Managed Print Central,4,Will not be automated,NA,,
-316,CFS MPSSP E2E SIT,1,No,potential,,
-316,CFS MPSSP E2E SIT,2,Yes,automation|potential,,
-316,CFS MPSSP E2E SIT,4,Will not be automated,NA,,
-212,CFS Service Estimator,1,No,potential,,
-212,CFS Service Estimator,2,Yes,automation|potential,,
-212,CFS Service Estimator,3,Partial,potential,,
-141,CFT MS Transition Tool,1,No,potential,,
-141,CFT MS Transition Tool,2,Yes,automation|potential,,
-141,CFT MS Transition Tool,3,Partial,potential,,
-640,Clariti Manager,1,To be automated,potential,,
-640,Clariti Manager,2,Automated,automation|potential,,
-640,Clariti Manager,3,Will not be automated,NA,,
-640,Clariti Manager,4,To be reviewed,NA,,
-744,Clockwork API,10,Manual,potential,,
-744,Clockwork API,11,To Be Automated,potential,,
-744,Clockwork API,12,Automated,automation|potential,,
-412,Cloud Bank Services,1,Automated,automation|potential,,
-412,Cloud Bank Services,2,Pending to Automate,potential,,
-412,Cloud Bank Services,3,Non Automatable,NA,,
-694,commerce-core-automation,1,Automated,automation|potential,,
-694,commerce-core-automation,2,Pending to Automate,potential,,
-702,CPQ,1,Automated,automation|potential,,
-702,CPQ,2,Automated Edited,automation|potential,,
-702,CPQ,3,Automation In Progress,potential,,
-702,CPQ,4,Cannot be Automated,NA,,
-702,CPQ,5,Not Automated,potential,,
-702,CPQ,6,Ready for Automation,potential,,
-116,CSO (PON),1,,NA,,
-745,DMS Solutioning,1,,NA,,
-745,DMS Solutioning,2,,NA,,
-258,Dune FW Products,1,,NA,,
-258,Dune FW Products,2,,NA,,
-258,Dune FW Products,3,,NA,,
-258,Dune FW Products,4,,NA,,
-276,Ecosystem Trunk,1,Yes,automation|potential,,
-276,Ecosystem Trunk,2,No,potential,,
-276,Ecosystem Trunk,3,Partial,potential,,
-276,Ecosystem Trunk,4,Cannot Automate,NA,,
-693,ESV Contractual 2024,1,,NA,,
-693,ESV Contractual 2024,2,,NA,,
-875,ESV Contractual 2025,1,,NA,,
-875,ESV Contractual 2025,2,,NA,,
-470,Gaia Sustainability Calculator,1,No,potential,,
-753,Geronimo,1,No,potential,,
-753,Geronimo,2,Yes,automation|potential,,
-753,Geronimo,4,N/A,NA,,
-131,GOTH QA,1,Yes,automation|potential,,
-131,GOTH QA,2,No,potential,,
-131,GOTH QA,3,Partial,potential,,
-131,GOTH QA,4,Cannot Automate,NA,,
-131,GOTH QA,5,To Do,potential,,
-270,Hallasan,1,Yes,automation|potential,,
-270,Hallasan,2,No,potential,,
-270,Hallasan,3,Partial,potential,,
-270,Hallasan,5,To Do,potential,,
-270,Hallasan,6,In Progress,potential,,
-1020,HP AIP FE,1,No,potential,,
-1020,HP AIP FE,2,Yes,automation|potential,,
-1020,HP AIP FE,6,In Progress,potential,,
-39,HP China IoT Print Solution,1,No,potential,,
-39,HP China IoT Print Solution,2,Yes,automation|potential,,
-39,HP China IoT Print Solution,3,Partial,potential,,
-695,HP Connect2,10,Automation,automation|potential,,
-695,HP Connect2,20,Manual,potential,,
-695,HP Connect2,40,Automation Pending,potential,,
-60,HP Easy Start,2,Yes,automation|potential,,
-60,HP Easy Start,3,Partial,potential,,
-60,HP Easy Start,4,Cannot Automate,NA,,
-60,HP Easy Start,5,To Do,potential,,
-272,HP Horizon,1,Yes,automation|potential,,
-272,HP Horizon,2,No,potential,,
-272,HP Horizon,3,Partial,potential,,
-272,HP Horizon,4,Cannot Automate,NA,,
-272,HP Horizon,5,To Do,potential,,
-272,HP Horizon,6,In Progress,potential,,
-22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),1,,NA,,
-22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),2,,NA,,
-22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),3,,NA,,
-12,HPC Client Scrum,1,No,potential,,
-12,HPC Client Scrum,2,Yes,automation|potential,,
-12,HPC Client Scrum,3,Partial,potential,,
-7,HPID,1,Automated - CATS,automation|potential,,
-7,HPID,3,Manual,potential,,
-7,HPID,4,Automated,automation|potential,,
-7,HPID,5,Can't Automate,NA,,
-1006,HPIQ,1,Automated,automation|potential,,
-1006,HPIQ,2,Not Yet Automated,potential,,
-1006,HPIQ,4,Cannot Automate,NA,,
-1006,HPIQ,5,Ready for Automation,potential,,
-203,HPLIP,1,Yes,automation|potential,,
-462,HPOne eCommerce,10,No,potential,,
-462,HPOne eCommerce,20,Yes,automation|potential,,
-462,HPOne eCommerce,40,N/A,NA,,
-459,HPOne eCommerce Asset Integration Test,1,Automated,automation|potential,,
-459,HPOne eCommerce Asset Integration Test,2,Pending to Automate,potential,,
-618,HPOne Integration and System Testing,1,,NA,,
-618,HPOne Integration and System Testing,2,,NA,,
-618,HPOne Integration and System Testing,3,,NA,,
-618,HPOne Integration and System Testing,4,,NA,,
-465,Sierra QA,1,Automated,automation|potential,,
-465,HPOne Magento BE,2,Pending Automation,potential,Add 1 for yes and proceed,
-465,HPOne Magento BE,3,Yet to start,potential,,
-143,HPPK Category TC,1,No,potential,,
-143,HPPK Category TC,2,Yes,automation|potential,,
-144,HPPK DEV Category TC,1,No,potential,,
-144,HPPK DEV Category TC,2,Yes,automation|potential,,
-264,HPPK DEV Cloud Platform,1,Automated,automation|potential,,
-264,HPPK DEV Cloud Platform,2,Pending to Automate,potential,,
-264,HPPK DEV Cloud Platform,3,Non Automatable,NA,,
-264,HPPK DEV Cloud Platform,4,Automation In Progress,potential,,
-145,HPPK Migrated Project TC,1,No,potential,,
-145,HPPK Migrated Project TC,2,Yes,automation|potential,,
-65,HPPK Sandbox,1,No,potential,,
-65,HPPK Sandbox,2,Yes,automation|potential,,
-217,HPPK SQA A3,1,No,potential,,
-217,HPPK SQA A3,2,Yes,automation|potential,,
-211,HPPK SQA A4,1,No,potential,,
-211,HPPK SQA A4,2,Yes,automation|potential,,
-164,HPPK SQA Client Software,1,No,potential,,
-182,HPPK SQA Command Center,2,Yes,automation|potential,,
-102,HPPK SQA EC/B2B,1,No,potential,,
-102,HPPK SQA EC/B2B,2,Yes,automation|potential,,
-205,HPPK SQA KIOSK,1,No,potential,,
-205,HPPK SQA KIOSK,2,Yes,automation|potential,,
-206,HPPK SQA Legacy Solution,1,No,potential,,
-224,HPPK SQA New OS,1,No,potential,,
-224,HPPK SQA New OS,2,Yes,automation|potential,,
-226,HPPK SQA OEM,1,No,potential,,
-227,HPPK SQA OEM-X,1,No,potential,,
-227,HPPK SQA OEM-X,2,Yes,automation|potential,,
-118,HPPK SQA TAI,1,No,potential,,
-119,HPPK SQA Workpath,1,No,potential,,
-119,HPPK SQA Workpath,2,Yes,automation|potential,,
-531,HPPSA,1,Yes,automation|potential,,
-531,HPPSA,2,No,potential,,
-531,HPPSA,3,Cant automate,NA,,
-531,HPPSA,4,In progress,potential,,
-531,HPPSA,5,None,potential,,
-355,HPSA Neo,1,No,potential,,
-355,HPSA Neo,2,Yes,automation|potential,,
-355,HPSA Neo,3,Partial,potential,,
-355,HPSA Neo,4,Cannot Automate,NA,,
-246,HPSA9,1,No,potential,,
-246,HPSA9,2,Yes,automation|potential,,
-246,HPSA9,3,Partial,potential,,
-246,HPSA9,4,Cannot Automate,NA,,
-292,HPSC QA,1,No,potential,,
-292,HPSC QA,2,Yes,automation|potential,,
-292,HPSC QA,3,Partial,potential,,
-11,HPSM,1,No,potential,,
-11,HPSM,2,Yes,automation|potential,,
-11,HPSM,3,Partial,potential,,
-11,HPSM,4,Not Automatable,NA,HPX,
-441,HPX,1,,NA,Stratus 4 - RCB1,
-441,HPX,2,,NA,,
-441,HPX,3,,NA,,
-441,HPX,4,,NA,,
-441,HPX,5,,NA,,
-271,HWQA Diagnostics,2,No,potential,,
-271,HWQA Diagnostics,4,Cannot Automate,NA,,
-42,Indigo - DaVinci,1,Automated,automation|potential,,
-42,Indigo - DaVinci,2,To Be Automated,potential,,
-42,Indigo - DaVinci,3,Manual,potential,,
-42,Indigo - DaVinci,4,Automation In-Progress,potential,,
-806,Indigo Future Platform,1,Manual,potential,,
-806,Indigo Future Platform,2,Automated,automation|potential,,
-831,Indigo Import Test,1,Manual,potential,,
-831,Indigo Import Test,2,Automated,automation|potential,,
-831,Indigo Import Test,5,Cannot be Automated,NA,,
-808,Indigo S3,1,Manual,potential,,
-808,Indigo S3,2,Automated,automation|potential,,
-808,Indigo S3,4,Partially Automated,potential,,
-808,Indigo S3,5,Cannot be Automated,NA,,
-807,Indigo S4/5,1,Manual,potential,,
-807,Indigo S4/5,2,Automated,automation|potential,,
-807,Indigo S4/5,3,Automation in Progress,potential,,
-807,Indigo S4/5,4,Partially Automated,potential,,
-807,Indigo S4/5,5,Cannot be Automated,NA,,
-946,Initium,1,No,potential,,
-946,Initium,2,Yes,automation|potential,,
-946,Initium,4,Cannot Automate,NA,,
-946,Initium,6,In Progress,potential,,
-946,Initium,20,Partial,potential,,
-262,Instant Ink QA - Instant Supplies,1,Yes,automation|potential,,
-262,Instant Ink QA - Instant Supplies,2,No,potential,,
-262,Instant Ink QA - Instant Supplies,6,In Progress,potential,,
-512,JDI Component,1,Automated,automation|potential,,
-512,JDI Component,2,Not automated,potential,,
-261,Karnak QA,1,Yes,automation|potential,,
-261,Karnak QA,2,No,potential,,
-261,Karnak QA,3,Partial,potential,,
-261,Karnak QA,4,Cannot Automate,NA,,
-261,Karnak QA,5,To Do,potential,,
-666,Lens Control Service,10,Manual,potential,,
-666,Lens Control Service,11,To Be Automated,potential,,
-666,Lens Control Service,12,Automated,automation|potential,,
-602,Lens Insights & Infrastructure,1,100% - fully automated,automation|potential,,
-602,Lens Insights & Infrastructure,2,Do not plan to automate,NA,,
-602,Lens Insights & Infrastructure,3,0% - preparation required to make test automatable,potential,,
-602,Lens Insights & Infrastructure,4,30-50% - automation assets ready: test can be automated,potential,,
-602,Lens Insights & Infrastructure,5,80-90% - automated: anyway some steps are still missing,potential,,
-602,Lens Insights & Infrastructure,10,Manual,potential,,
-602,Lens Insights & Infrastructure,11,To Be Automated,potential,,
-602,Lens Insights & Infrastructure,12,Automated,automation|potential,,
-602,Lens Insights & Infrastructure,13,Automated for Android,automation|potential,,
-602,Lens Insights & Infrastructure,14,Automated for iOS,automation|potential,,
-602,Lens Insights & Infrastructure,15,Update Introduced,potential,,
-81,LFP,1,Yes,automation|potential,,
-81,LFP,2,No,potential,,
-81,LFP,3,Partial,potential,,
-81,LFP,4,Cannot Automate,NA,,
-81,LFP,5,To Do,potential,,
-81,LFP,6,Broken,NA,,
-81,LFP,7,Infrastucture Development,NA,,
-81,LFP,8,Implemented,automation|potential,,
-81,LFP,9,Needs update,potential,,
-230,LFP Automation,1,Yes,automation|potential,,
-230,LFP Automation,2,No,potential,,
-230,LFP Automation,3,Partial,potential,,
-230,LFP Automation,4,Cannot Automate,NA,,
-230,LFP Automation,5,To Do,potential,,
-230,LFP Automation,7,Infrastucture Development,NA,,
-230,LFP Automation,8,Implemented,automation|potential,,
-170,LFP SDK,1,Manual,potential,,
-170,LFP SDK,2,Automated,automation|potential,,
-170,LFP SDK,3,Semi-automated,potential,,
-376,LFPAEC - LFP Construction Site,1,Yes,automation|potential,,
-376,LFPAEC - LFP Construction Site,2,No,potential,,
-376,LFPAEC - LFP Construction Site,4,Cannot Automate,NA,,
-376,LFPAEC - LFP Construction Site,5,To Do,potential,,
-376,LFPAEC - LFP Construction Site,6,Broken,NA,,
-376,LFPAEC - LFP Construction Site,7,Infrastucture Development,NA,,
-376,LFPAEC - LFP Construction Site,8,Implemented,automation|potential,,
-901,LTOHUB,2,Automated,automation|potential,,
-901,LTOHUB,4,Partially Automated,potential,,
-257,Mac SW Driver QA,1,Yes,automation|potential,,
-257,Mac SW Driver QA,3,Partial,potential,,
-257,Mac SW Driver QA,4,Cannot Automate,NA,,
-257,Mac SW Driver QA,5,To Do,potential,,
-257,Mac SW Driver QA,6,In Progress,potential,,
-353,Manageability & Solutions,1,No,potential,,
-353,Manageability & Solutions,2,Yes,automation|potential,,
-353,Manageability & Solutions,3,Partial,potential,,
-353,Manageability & Solutions,4,Not Automatable,NA,,
-20,MAQA,1,No,potential,,
-20,MAQA,2,Yes,automation|potential,,
-20,MAQA,3,Partial,potential,,
-20,MAQA,4,,NA,,
-654,Nestle-Pegasus,1,Robot,NA,,
-654,Nestle-Pegasus,2,Other,potential,,
-896,ODM-Huaqin,1,Yes,automation|potential,,
-896,ODM-Huaqin,2,No,potential,,
-571,ODM-Merry,1,,NA,,
-571,ODM-Merry,2,,NA,,
-897,ODM-SpeedTech,1,Yes,automation|potential,,
-897,ODM-SpeedTech,2,No,potential,,
-708,Onboarding Solutions,2,Manual,potential,,
-386,OneCloud,1,No,potential,,
-386,OneCloud,2,Yes,automation|potential,,
-386,OneCloud,4,N/A,NA,,
-386,OneCloud,6,In Progress,potential,,
-80,Pegasus,1,Robot,NA,,
-80,Pegasus,2,Other,potential,,
-80,Pegasus,3,Automatable,automation|potential,,
-797,PerfectPrint,1,No,potential,,
-797,PerfectPrint,2,Yes,automation|potential,,
-797,PerfectPrint,3,Partial,potential,,
-797,PerfectPrint,4,Cannot Automate,NA,,
-780,POCSC Test Rail,1,Automated,automation|potential,,
-780,POCSC Test Rail,2,Automated Edited,automation|potential,,
-780,POCSC Test Rail,3,Automation In Progress,potential,,
-780,POCSC Test Rail,4,Cannot be Automated,NA,,
-780,POCSC Test Rail,5,Not Automated,potential,,
-780,POCSC Test Rail,6,Ready for Automation,potential,,
-581,Poly DQE VTM,2,Do not plan to automate,NA,,
-604,Poly Headsets,1,Yes,automation|potential,,
-604,Poly Headsets,2,No,potential,,
-466,Poly Sandbox,1,100% - fully automated,automation|potential,,
-466,Poly Sandbox,2,Do not plan to automate,NA,,
-466,Poly Sandbox,3,0% - preparation required to make test automatable,potential,,
-466,Poly Sandbox,4,30-50% - automation assets ready: test can be automated,potential,,
-466,Poly Sandbox,5,80-90% - automated: anyway some steps are still missing,potential,,
-642,Poly Video,1,100% - fully automated,automation|potential,,
-642,Poly Video,2,Do not plan to automate,NA,,
-642,Poly Video,3,0% - preparation required to make test automatable,potential,,
-642,Poly Video,4,30-50% - automation assets ready: test can be automated,potential,,
-642,Poly Video,5,80-90% - automated: anyway some steps are still missing,potential,,
-642,Poly Video,10,Manual,potential,,
-642,Poly Video,11,To Be Automated,potential,,
-642,Poly Video,12,Automated,automation|potential,,
-651,Poly Voice,2,Do not plan to automate,NA,,
-651,Poly Voice,10,Manual,potential,,
-651,Poly Voice,11,To Be Automated,potential,,
-651,Poly Voice,12,Automated,automation|potential,,
-651,Poly Voice,13,None,potential,,
-651,Poly Voice,16,0% - preparation required to make test automatable,potential,,
-651,Poly Voice,17,30-50% of test steps are automated,potential,,
-651,Poly Voice,18,80-90% of test steps are automated,potential,,
-651,Poly Voice,19,100% - fully automated,automation|potential,,
-327,Portal_Shell (HP 200A),1,Automated,automation|potential,,
-327,Portal_Shell (HP 200A),2,Manual,potential,,
-401,PRTBS,1,Yes,automation|potential,,
-401,PRTBS,2,No,potential,,
-401,PRTBS,3,Partial,potential,,
-743,PSA App,1,No,potential,,
-165,PSDr,1,No,potential,,
-165,PSDr,2,Yes,automation|potential,,
-165,PSDr,3,Partial,potential,,
-165,PSDr,4,Cannot Automate,NA,,
-165,PSDr,5,To Do,potential,,
-165,PSDr,6,In Progress,potential,,
-321,PSP JWEB,1,No,potential,,
-321,PSP JWEB,2,Yes,automation|potential,,
-321,PSP JWEB,3,Partial,potential,,
-187,PSSW - CapGemini,1,Yes,automation|potential,,
-187,PSSW - CapGemini,2,No,potential,,
-187,PSSW - CapGemini,4,Cannot Automate,NA,,
-187,PSSW - CapGemini,5,To Do,potential,,
-194,PSSW ComCent - Global Feature,1,Yes,automation|potential,,
-194,PSSW ComCent - Global Feature,2,No,potential,,
-194,PSSW ComCent - Global Feature,4,Cannot Automate,NA,,
-194,PSSW ComCent - Global Feature,5,To Do,potential,,
-194,PSSW ComCent - Global Feature,6,In Progress,potential,,
-242,PSSW Comcent - Secdash,1,Yes,automation|potential,,
-242,PSSW Comcent - Secdash,2,No,potential,,
-242,PSSW Comcent - Secdash,4,Cannot Automate,NA,,
-242,PSSW Comcent - Secdash,5,To Do,potential,,
-242,PSSW Comcent - Secdash,6,In Progress,potential,,
-240,PSSW Comcent - Support,1,Yes,automation|potential,,
-240,PSSW Comcent - Support,2,No,potential,,
-240,PSSW Comcent - Support,3,Partial,potential,,
-240,PSSW Comcent - Support,4,Cannot Automate,NA,,
-243,PSSW Comcent - Veneer Native,1,Yes,automation|potential,,
-243,PSSW Comcent - Veneer Native,2,No,potential,,
-243,PSSW Comcent - Veneer Native,4,Cannot Automate,NA,,
-29,PSSW Fusion,1,Yes,automation|potential,,
-29,PSSW Fusion,6,In Progress,potential,,
-34,PSSW HP Jumpstart,1,Yes,automation|potential,,
-34,PSSW HP Jumpstart,2,No,potential,,
-34,PSSW HP Jumpstart,4,Cannot Automate,NA,,
-34,PSSW HP Jumpstart,5,To Do,potential,,
-330,PSSW HP ProCloud,1,Complete,automation|potential,,
-30,PSSW Isen,1,Done,automation|potential,,
-30,PSSW Isen,2,,NA,,
-30,PSSW Isen,3,Partial,potential,,
-30,PSSW Isen,4,N/A,NA,,
-30,PSSW Isen,5,To Do,potential,,
-308,PSSW myHP-EliteBuds,2,No,potential,,
-308,PSSW myHP-EliteBuds,3,Partial,potential,,
-308,PSSW myHP-EliteBuds,4,Cannot Automate,NA,,
-308,PSSW myHP-EliteBuds,5,To Do,potential,,
-650,PyLens,1,Yes,automation|potential,,
-603,Ramon,1,Automated,automation|potential,,
-603,Ramon,2,To Do,potential,,
-603,Ramon,3,Manual,potential,,
-603,Ramon,4,Automation In-Progress,potential,,
-603,Ramon,5,Manual In-Progress,potential,,
-146,RCB Category TC,1,No,potential,,
-146,RCB Category TC,2,Yes,automation|potential,,
-235,RCB OEM,1,,NA,,
-247,Sanctuary,1,No,potential,,
-716,SAP CPQ,2,,NA,,
-218,Scan Software Solutions,1,Yes,automation|potential,,
-218,Scan Software Solutions,2,No,potential,,
-218,Scan Software Solutions,3,Partial,potential,,
-218,Scan Software Solutions,4,Cannot Automate,NA,,
-218,Scan Software Solutions,5,To Do,potential,,
-343,Sierra QA,1,Yes,automation|potential,,
-91,Sirius FW Products,1,,NA,,
-91,Sirius FW Products,2,,NA,,
-374,SIV Contractual 2022,1,,NA,,
-665,SIV Contractual 2024(Do not use),1,,NA,,
-665,SIV Contractual 2024(Do not use),2,,NA,,
-225,SIV SET,1,No,potential,,
-225,SIV SET,2,Yes,automation|potential,,
-717,Smart Driver QA,1,Yes,automation|potential,,
-717,Smart Driver QA,2,No,potential,,
-717,Smart Driver QA,5,To Do,potential,,
-643,Solution Test,1,100% - fully automated,automation|potential,,
-643,Solution Test,2,Do not plan to automate,NA,,
-643,Solution Test,3,0% - preparation required to make test automatable,potential,,
-643,Solution Test,4,30-50% - automation assets ready: test can be automated,potential,,
-643,Solution Test,10,Manual,potential,,
-643,Solution Test,11,To Be Automated,potential,,
-643,Solution Test,12,Automated,automation|potential,,
-149,SP - ALPACA (Consent Management),3,Manual,potential,,
-149,SP - ALPACA (Consent Management),4,Automated,automation|potential,,
-149,SP - ALPACA (Consent Management),5,Can't Automate,NA,,
-255,SP - PPC,3,Manual,potential,,
-255,SP - PPC,4,Automated,automation|potential,,
-2,SP - Sandbox,1,Automated - CATS,automation|potential,,
-2,SP - Sandbox,3,Manual,potential,,
-71,SP - SDMv2,1,Automated - CATS,automation|potential,,
-71,SP - SDMv2,3,Manual,potential,,
-554,Stratus Core - Admin Tool,1,Automated,automation|potential,,
-554,Stratus Core - Admin Tool,2,Pending to Automate,potential,,
-552,Stratus Core - Config Tool,1,Automated,automation|potential,,
-552,Stratus Core - Config Tool,2,Pending to Automate,potential,,
-629,SW Client Libraries,10,Manual,potential,,
-629,SW Client Libraries,11,To Be Automated,potential,,
-629,SW Client Libraries,12,Automated,automation|potential,,
-263,Thin Client Argon,1,None,potential,,
-263,Thin Client Argon,2,Design,NA,,
-263,Thin Client Argon,3,Ready,potential,,
-16,Titan,1,Yes,automation|potential,,
-16,Titan,2,No,potential,,
-175,UFD,2,Yes,automation|potential,,
-175,UFD,3,Partial,potential,,
-175,UFD,4,Cannot Automate,NA,,
-175,UFD,5,To Do,potential,,
-359,UPD QA,2,2 No,potential,,
-359,UPD QA,1,1 Yes,automation|potential,,
-359,UPD QA,3,3 Partial,potential,,
-359,UPD QA,4,4 Cannot Automate,NA,,
-359,UPD QA,5,5 To Do,potential,,
-359,UPD QA,6,6 In Progress,potential,,
-177,Vibhuti Platform,1,No,potential,,
-177,Vibhuti Platform,2,Yes,automation|potential,,
-177,Vibhuti Platform,4,Cannot Automate,NA,,
-177,Vibhuti Platform,5,To Do,potential,,
-177,Vibhuti Platform,6,In Progress,potential,,
-346,Virat QA,1,Yes,automation|potential,,
-346,Virat QA,4,Cannot Automate,NA,,
-727,WEX QA,10,Automation,automation|potential,,
-727,WEX QA,20,Manual,potential,,
-727,WEX QA,30,Partial Automation,potential,,
-727,WEX QA,40,Automation Pending,potential,,
-669,WEX QA Sandbox,10,Automation,automation|potential,,
-669,WEX QA Sandbox,20,Manual,potential,,
-728,WEXFIRE,10,Automation,automation|potential,,
-728,WEXFIRE,20,Manual,potential,,
-728,WEXFIRE,30,Partial Automation,potential,,
-728,WEXFIRE,40,Automation Pending,potential,,
-298,WJA,1,No,potential,,
-298,WJA,2,Yes,automation|potential,,
-298,WJA,3,Partial,potential,,
-298,WJA,4,Not Automatable,NA,,
-53,WPP,1,No,potential,,
-53,WPP,2,Yes,automation|potential,,
-53,WPP,3,Partial,potential,,
-53,WPP,4,Cannot Automate,NA,,
-13,WPP HPC Platform Scrum,1,No,potential,,
-13,WPP HPC Platform Scrum,2,Yes,automation|potential,,
-312,zBambi - HP200A (Archive),4,Cannot Automate,NA,,
-312,zBambi - HP200A (Archive),5,To Do,potential,,
-3,zSandbox - Test Suites Enabled,1,No,potential,,
-3,zSandbox - Test Suites Enabled,2,Yes,automation|potential,,
-3,zSandbox - Test Suites Enabled,3,Partial,potential,,
-3,zSandbox - Test Suites Enabled,4,Cannot Automate,NA,,
-3,zSandbox - Test Suites Enabled,5,To Do,potential,,
+Projects Project ID,Projects Project Name,Suites Automation Status ID,Suites Automation Status (Case),Status Mapping
+89,3DSW,2,,NA
+652,Acoustic and Media Test Eng,2,Not Automated,potential
+549,AI Experience Center,1,Yes,automation|potential
+549,AI Experience Center,2,No,potential
+549,AI Experience Center,3,Partial,potential
+549,AI Experience Center,4,Cannot Automate,NA
+740,AIXC,1,Yes,automation|potential
+740,AIXC,2,No,potential
+740,AIXC,3,Partial,potential
+740,AIXC,4,Cannot Automate,NA
+876,All-In Commerce,1,Automated,automation|potential
+876,All-In Commerce,2,Pending to Automate,potential
+876,All-In Commerce,3,Non Automatable,NA
+876,All-In Commerce,4,Automation In Progress,potential
+860,Alpha DFE,1,Manual,potential
+860,Alpha DFE,2,Automated,automation|potential
+176,CF .Integration,1,No,potential
+152,CFBI BIRD,1,No,potential
+152,CFBI BIRD,2,Yes,automation|potential
+152,CFBI BIRD,3,Partial,potential
+196,CFBI UAT Insights,1,No,potential
+157,CFD ARC-QA,1,No,potential
+157,CFD ARC-QA,2,Yes,automation|potential
+293,CFD BROKERy (recheck delete status on Jul 1 2025),1,No,potential
+293,CFD BROKERy (recheck delete status on Jul 1 2025),2,Yes,automation|potential
+237,CFD CBA UAT,1,No,potential
+237,CFD CBA UAT,2,Yes,automation|potential
+237,CFD CBA UAT,4,Will not be automated,NA
+191,CFD Device Control Center,1,No,potential
+191,CFD Device Control Center,2,Yes,automation|potential
+191,CFD Device Control Center,3,Partial,potential
+191,CFD Device Control Center,4,Will not be automated,NA
+323,CFD EOT-QA,1,No,potential
+323,CFD EOT-QA,2,Yes,automation|potential
+323,CFD EOT-QA,3,Partial,potential
+200,CFD HP DaaS Portal,1,No,potential
+200,CFD HP DaaS Portal,2,Yes,automation|potential
+692,CFD MPS Enterprise Catalog,1,No,potential
+692,CFD MPS Enterprise Catalog,2,Yes,automation|potential
+692,CFD MPS Enterprise Catalog,4,Will not be automated,NA
+671,CFD MPS ITSM,1,No,potential
+671,CFD MPS ITSM,2,Yes,automation|potential
+671,CFD MPS ITSM,3,Partial,potential
+671,CFD MPS ITSM,4,Will not be automated,NA
+168,CFD MPS SD,1,No,potential
+168,CFD MPS SD,2,Yes,automation|potential
+168,CFD MPS SD,3,Partial,potential
+168,CFD MPS SD,4,Will not be automated,NA
+169,CFD SNOW Asset Management Workstream,2,Yes,automation|potential
+169,CFD SNOW Asset Management Workstream,3,Partial,potential
+315,CFS CBA E2E SIT,1,No,potential
+315,CFS CBA E2E SIT,2,Yes,automation|potential
+163,CFS DART DaaS,1,No,potential
+162,CFS DART Print,1,No,potential
+162,CFS DART Print,2,Yes,automation|potential
+104,CFS DCMC,1,No,potential
+104,CFS DCMC,2,Yes,automation|potential
+104,CFS DCMC,3,Partial,potential
+223,CFS FleetOps - NRD/FOAP,2,Yes,automation|potential
+84,CFS FleetOps - SDS,1,No,potential
+84,CFS FleetOps - SDS,2,Yes,automation|potential
+84,CFS FleetOps - SDS,3,Partial,potential
+84,CFS FleetOps - SDS,4,Will not be automated,NA
+84,CFS FleetOps - SDS,5,Can be Automated,NA
+173,CFS Foster Workstream,1,No,potential
+158,CFS Managed Print Central,1,No,potential
+158,CFS Managed Print Central,2,Yes,automation|potential
+158,CFS Managed Print Central,3,Partial,potential
+158,CFS Managed Print Central,4,Will not be automated,NA
+316,CFS MPSSP E2E SIT,1,No,potential
+316,CFS MPSSP E2E SIT,2,Yes,automation|potential
+316,CFS MPSSP E2E SIT,4,Will not be automated,NA
+212,CFS Service Estimator,1,No,potential
+212,CFS Service Estimator,2,Yes,automation|potential
+212,CFS Service Estimator,3,Partial,potential
+141,CFT MS Transition Tool,1,No,potential
+141,CFT MS Transition Tool,2,Yes,automation|potential
+141,CFT MS Transition Tool,3,Partial,potential
+640,Clariti Manager,1,To be automated,potential
+640,Clariti Manager,2,Automated,automation|potential
+640,Clariti Manager,3,Will not be automated,NA
+640,Clariti Manager,4,To be reviewed,NA
+744,Clockwork API,10,Manual,potential
+744,Clockwork API,11,To Be Automated,potential
+744,Clockwork API,12,Automated,automation|potential
+412,Cloud Bank Services,1,Automated,automation|potential
+412,Cloud Bank Services,2,Pending to Automate,potential
+412,Cloud Bank Services,3,Non Automatable,NA
+694,commerce-core-automation,1,Automated,automation|potential
+694,commerce-core-automation,2,Pending to Automate,potential
+702,CPQ,1,Automated,automation|potential
+702,CPQ,2,Automated Edited,automation|potential
+702,CPQ,3,Automation In Progress,potential
+702,CPQ,4,Cannot be Automated,NA
+702,CPQ,5,Not Automated,potential
+702,CPQ,6,Ready for Automation,potential
+116,CSO (PON),1,,NA
+745,DMS Solutioning,1,,NA
+745,DMS Solutioning,2,,NA
+258,Dune FW Products,1,,NA
+258,Dune FW Products,2,,NA
+258,Dune FW Products,3,,NA
+258,Dune FW Products,4,,NA
+276,Ecosystem Trunk,1,Yes,automation|potential
+276,Ecosystem Trunk,2,No,potential
+276,Ecosystem Trunk,3,Partial,potential
+276,Ecosystem Trunk,4,Cannot Automate,NA
+693,ESV Contractual 2024,1,,NA
+693,ESV Contractual 2024,2,,NA
+875,ESV Contractual 2025,1,,NA
+875,ESV Contractual 2025,2,,NA
+470,Gaia Sustainability Calculator,1,No,potential
+753,Geronimo,1,No,potential
+753,Geronimo,2,Yes,automation|potential
+753,Geronimo,4,N/A,NA
+131,GOTH QA,1,Yes,automation|potential
+131,GOTH QA,2,No,potential
+131,GOTH QA,3,Partial,potential
+131,GOTH QA,4,Cannot Automate,NA
+131,GOTH QA,5,To Do,potential
+270,Hallasan,1,Yes,automation|potential
+270,Hallasan,2,No,potential
+270,Hallasan,3,Partial,potential
+270,Hallasan,5,To Do,potential
+270,Hallasan,6,In Progress,potential
+1020,HP AIP FE,1,No,potential
+1020,HP AIP FE,2,Yes,automation|potential
+1020,HP AIP FE,6,In Progress,potential
+39,HP China IoT Print Solution,1,No,potential
+39,HP China IoT Print Solution,2,Yes,automation|potential
+39,HP China IoT Print Solution,3,Partial,potential
+695,HP Connect2,10,Automation,automation|potential
+695,HP Connect2,20,Manual,potential
+695,HP Connect2,40,Automation Pending,potential
+60,HP Easy Start,2,Yes,automation|potential
+60,HP Easy Start,3,Partial,potential
+60,HP Easy Start,4,Cannot Automate,NA
+60,HP Easy Start,5,To Do,potential
+272,HP Horizon,1,Yes,automation|potential
+272,HP Horizon,2,No,potential
+272,HP Horizon,3,Partial,potential
+272,HP Horizon,4,Cannot Automate,NA
+272,HP Horizon,5,To Do,potential
+272,HP Horizon,6,In Progress,potential
+22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),1,,NA
+22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),2,,NA
+22,HPC AWS Migrationy (recheck delete status on Jul 1 2025),3,,NA
+12,HPC Client Scrum,1,No,potential
+12,HPC Client Scrum,2,Yes,automation|potential
+12,HPC Client Scrum,3,Partial,potential
+7,HPID,1,Automated - CATS,automation|potential
+7,HPID,3,Manual,potential
+7,HPID,4,Automated,automation|potential
+7,HPID,5,Can't Automate,NA
+1006,HPIQ,1,Automated,automation|potential
+1006,HPIQ,2,Not Yet Automated,potential
+1006,HPIQ,4,Cannot Automate,NA
+1006,HPIQ,5,Ready for Automation,potential
+203,HPLIP,1,Yes,automation|potential
+462,HPOne eCommerce,10,No,potential
+462,HPOne eCommerce,20,Yes,automation|potential
+462,HPOne eCommerce,40,N/A,NA
+459,HPOne eCommerce Asset Integration Test,1,Automated,automation|potential
+459,HPOne eCommerce Asset Integration Test,2,Pending to Automate,potential
+618,HPOne Integration and System Testing,1,,NA
+618,HPOne Integration and System Testing,2,,NA
+618,HPOne Integration and System Testing,3,,NA
+618,HPOne Integration and System Testing,4,,NA
+465,Sierra QA,1,Automated,automation|potential
+465,HPOne Magento BE,2,Pending Automation,potential
+465,HPOne Magento BE,3,Yet to start,potential
+143,HPPK Category TC,1,No,potential
+143,HPPK Category TC,2,Yes,automation|potential
+144,HPPK DEV Category TC,1,No,potential
+144,HPPK DEV Category TC,2,Yes,automation|potential
+264,HPPK DEV Cloud Platform,1,Automated,automation|potential
+264,HPPK DEV Cloud Platform,2,Pending to Automate,potential
+264,HPPK DEV Cloud Platform,3,Non Automatable,NA
+264,HPPK DEV Cloud Platform,4,Automation In Progress,potential
+145,HPPK Migrated Project TC,1,No,potential
+145,HPPK Migrated Project TC,2,Yes,automation|potential
+65,HPPK Sandbox,1,No,potential
+65,HPPK Sandbox,2,Yes,automation|potential
+217,HPPK SQA A3,1,No,potential
+217,HPPK SQA A3,2,Yes,automation|potential
+211,HPPK SQA A4,1,No,potential
+211,HPPK SQA A4,2,Yes,automation|potential
+164,HPPK SQA Client Software,1,No,potential
+182,HPPK SQA Command Center,2,Yes,automation|potential
+102,HPPK SQA EC/B2B,1,No,potential
+102,HPPK SQA EC/B2B,2,Yes,automation|potential
+205,HPPK SQA KIOSK,1,No,potential
+205,HPPK SQA KIOSK,2,Yes,automation|potential
+206,HPPK SQA Legacy Solution,1,No,potential
+224,HPPK SQA New OS,1,No,potential
+224,HPPK SQA New OS,2,Yes,automation|potential
+226,HPPK SQA OEM,1,No,potential
+227,HPPK SQA OEM-X,1,No,potential
+227,HPPK SQA OEM-X,2,Yes,automation|potential
+118,HPPK SQA TAI,1,No,potential
+119,HPPK SQA Workpath,1,No,potential
+119,HPPK SQA Workpath,2,Yes,automation|potential
+531,HPPSA,1,Yes,automation|potential
+531,HPPSA,2,No,potential
+531,HPPSA,3,Cant automate,NA
+531,HPPSA,4,In progress,potential
+531,HPPSA,5,None,potential
+355,HPSA Neo,1,No,potential
+355,HPSA Neo,2,Yes,automation|potential
+355,HPSA Neo,3,Partial,potential
+355,HPSA Neo,4,Cannot Automate,NA
+246,HPSA9,1,No,potential
+246,HPSA9,2,Yes,automation|potential
+246,HPSA9,3,Partial,potential
+246,HPSA9,4,Cannot Automate,NA
+292,HPSC QA,1,No,potential
+292,HPSC QA,2,Yes,automation|potential
+292,HPSC QA,3,Partial,potential
+11,HPSM,1,No,potential
+11,HPSM,2,Yes,automation|potential
+11,HPSM,3,Partial,potential
+11,HPSM,4,Not Automatable,NA
+441,HPX,1,,NA
+441,HPX,2,,NA
+441,HPX,3,,NA
+441,HPX,4,,NA
+441,HPX,5,,NA
+271,HWQA Diagnostics,2,No,potential
+271,HWQA Diagnostics,4,Cannot Automate,NA
+42,Indigo - DaVinci,1,Automated,automation|potential
+42,Indigo - DaVinci,2,To Be Automated,potential
+42,Indigo - DaVinci,3,Manual,potential
+42,Indigo - DaVinci,4,Automation In-Progress,potential
+806,Indigo Future Platform,1,Manual,potential
+806,Indigo Future Platform,2,Automated,automation|potential
+831,Indigo Import Test,1,Manual,potential
+831,Indigo Import Test,2,Automated,automation|potential
+831,Indigo Import Test,5,Cannot be Automated,NA
+808,Indigo S3,1,Manual,potential
+808,Indigo S3,2,Automated,automation|potential
+808,Indigo S3,4,Partially Automated,potential
+808,Indigo S3,5,Cannot be Automated,NA
+807,Indigo S4/5,1,Manual,potential
+807,Indigo S4/5,2,Automated,automation|potential
+807,Indigo S4/5,3,Automation in Progress,potential
+807,Indigo S4/5,4,Partially Automated,potential
+807,Indigo S4/5,5,Cannot be Automated,NA
+946,Initium,1,No,potential
+946,Initium,2,Yes,automation|potential
+946,Initium,4,Cannot Automate,NA
+946,Initium,6,In Progress,potential
+946,Initium,20,Partial,potential
+262,Instant Ink QA - Instant Supplies,1,Yes,automation|potential
+262,Instant Ink QA - Instant Supplies,2,No,potential
+262,Instant Ink QA - Instant Supplies,6,In Progress,potential
+512,JDI Component,1,Automated,automation|potential
+512,JDI Component,2,Not automated,potential
+261,Karnak QA,1,Yes,automation|potential
+261,Karnak QA,2,No,potential
+261,Karnak QA,3,Partial,potential
+261,Karnak QA,4,Cannot Automate,NA
+261,Karnak QA,5,To Do,potential
+666,Lens Control Service,10,Manual,potential
+666,Lens Control Service,11,To Be Automated,potential
+666,Lens Control Service,12,Automated,automation|potential
+602,Lens Insights & Infrastructure,1,100% - fully automated,automation|potential
+602,Lens Insights & Infrastructure,2,Do not plan to automate,NA
+602,Lens Insights & Infrastructure,3,0% - preparation required to make test automatable,potential
+602,Lens Insights & Infrastructure,4,30-50% - automation assets ready: test can be automated,potential
+602,Lens Insights & Infrastructure,5,80-90% - automated: anyway some steps are still missing,potential
+602,Lens Insights & Infrastructure,10,Manual,potential
+602,Lens Insights & Infrastructure,11,To Be Automated,potential
+602,Lens Insights & Infrastructure,12,Automated,automation|potential
+602,Lens Insights & Infrastructure,13,Automated for Android,automation|potential
+602,Lens Insights & Infrastructure,14,Automated for iOS,automation|potential
+602,Lens Insights & Infrastructure,15,Update Introduced,potential
+81,LFP,1,Yes,automation|potential
+81,LFP,2,No,potential
+81,LFP,3,Partial,potential
+81,LFP,4,Cannot Automate,NA
+81,LFP,5,To Do,potential
+81,LFP,6,Broken,NA
+81,LFP,7,Infrastucture Development,NA
+81,LFP,8,Implemented,automation|potential
+81,LFP,9,Needs update,potential
+230,LFP Automation,1,Yes,automation|potential
+230,LFP Automation,2,No,potential
+230,LFP Automation,3,Partial,potential
+230,LFP Automation,4,Cannot Automate,NA
+230,LFP Automation,5,To Do,potential
+230,LFP Automation,7,Infrastucture Development,NA
+230,LFP Automation,8,Implemented,automation|potential
+170,LFP SDK,1,Manual,potential
+170,LFP SDK,2,Automated,automation|potential
+170,LFP SDK,3,Semi-automated,potential
+376,LFPAEC - LFP Construction Site,1,Yes,automation|potential
+376,LFPAEC - LFP Construction Site,2,No,potential
+376,LFPAEC - LFP Construction Site,4,Cannot Automate,NA
+376,LFPAEC - LFP Construction Site,5,To Do,potential
+376,LFPAEC - LFP Construction Site,6,Broken,NA
+376,LFPAEC - LFP Construction Site,7,Infrastucture Development,NA
+376,LFPAEC - LFP Construction Site,8,Implemented,automation|potential
+901,LTOHUB,2,Automated,automation|potential
+901,LTOHUB,4,Partially Automated,potential
+257,Mac SW Driver QA,1,Yes,automation|potential
+257,Mac SW Driver QA,3,Partial,potential
+257,Mac SW Driver QA,4,Cannot Automate,NA
+257,Mac SW Driver QA,5,To Do,potential
+257,Mac SW Driver QA,6,In Progress,potential
+353,Manageability & Solutions,1,No,potential
+353,Manageability & Solutions,2,Yes,automation|potential
+353,Manageability & Solutions,3,Partial,potential
+353,Manageability & Solutions,4,Not Automatable,NA
+20,MAQA,1,No,potential
+20,MAQA,2,Yes,automation|potential
+20,MAQA,3,Partial,potential
+20,MAQA,4,,NA
+654,Nestle-Pegasus,1,Robot,NA
+654,Nestle-Pegasus,2,Other,potential
+896,ODM-Huaqin,1,Yes,automation|potential
+896,ODM-Huaqin,2,No,potential
+571,ODM-Merry,1,,NA
+571,ODM-Merry,2,,NA
+897,ODM-SpeedTech,1,Yes,automation|potential
+897,ODM-SpeedTech,2,No,potential
+708,Onboarding Solutions,2,Manual,potential
+386,OneCloud,1,No,potential
+386,OneCloud,2,Yes,automation|potential
+386,OneCloud,4,N/A,NA
+386,OneCloud,6,In Progress,potential
+80,Pegasus,1,Robot,NA
+80,Pegasus,2,Other,potential
+80,Pegasus,3,Automatable,automation|potential
+797,PerfectPrint,1,No,potential
+797,PerfectPrint,2,Yes,automation|potential
+797,PerfectPrint,3,Partial,potential
+797,PerfectPrint,4,Cannot Automate,NA
+780,POCSC Test Rail,1,Automated,automation|potential
+780,POCSC Test Rail,2,Automated Edited,automation|potential
+780,POCSC Test Rail,3,Automation In Progress,potential
+780,POCSC Test Rail,4,Cannot be Automated,NA
+780,POCSC Test Rail,5,Not Automated,potential
+780,POCSC Test Rail,6,Ready for Automation,potential
+581,Poly DQE VTM,2,Do not plan to automate,NA
+604,Poly Headsets,1,Yes,automation|potential
+604,Poly Headsets,2,No,potential
+466,Poly Sandbox,1,100% - fully automated,automation|potential
+466,Poly Sandbox,2,Do not plan to automate,NA
+466,Poly Sandbox,3,0% - preparation required to make test automatable,potential
+466,Poly Sandbox,4,30-50% - automation assets ready: test can be automated,potential
+466,Poly Sandbox,5,80-90% - automated: anyway some steps are still missing,potential
+642,Poly Video,1,100% - fully automated,automation|potential
+642,Poly Video,2,Do not plan to automate,NA
+642,Poly Video,3,0% - preparation required to make test automatable,potential
+642,Poly Video,4,30-50% - automation assets ready: test can be automated,potential
+642,Poly Video,5,80-90% - automated: anyway some steps are still missing,potential
+642,Poly Video,10,Manual,potential
+642,Poly Video,11,To Be Automated,potential
+642,Poly Video,12,Automated,automation|potential
+651,Poly Voice,2,Do not plan to automate,NA
+651,Poly Voice,10,Manual,potential
+651,Poly Voice,11,To Be Automated,potential
+651,Poly Voice,12,Automated,automation|potential
+651,Poly Voice,13,None,potential
+651,Poly Voice,16,0% - preparation required to make test automatable,potential
+651,Poly Voice,17,30-50% of test steps are automated,potential
+651,Poly Voice,18,80-90% of test steps are automated,potential
+651,Poly Voice,19,100% - fully automated,automation|potential
+327,Portal_Shell (HP 200A),1,Automated,automation|potential
+327,Portal_Shell (HP 200A),2,Manual,potential
+401,PRTBS,1,Yes,automation|potential
+401,PRTBS,2,No,potential
+401,PRTBS,3,Partial,potential
+743,PSA App,1,No,potential
+165,PSDr,1,No,potential
+165,PSDr,2,Yes,automation|potential
+165,PSDr,3,Partial,potential
+165,PSDr,4,Cannot Automate,NA
+165,PSDr,5,To Do,potential
+165,PSDr,6,In Progress,potential
+321,PSP JWEB,1,No,potential
+321,PSP JWEB,2,Yes,automation|potential
+321,PSP JWEB,3,Partial,potential
+187,PSSW - CapGemini,1,Yes,automation|potential
+187,PSSW - CapGemini,2,No,potential
+187,PSSW - CapGemini,4,Cannot Automate,NA
+187,PSSW - CapGemini,5,To Do,potential
+194,PSSW ComCent - Global Feature,1,Yes,automation|potential
+194,PSSW ComCent - Global Feature,2,No,potential
+194,PSSW ComCent - Global Feature,4,Cannot Automate,NA
+194,PSSW ComCent - Global Feature,5,To Do,potential
+194,PSSW ComCent - Global Feature,6,In Progress,potential
+242,PSSW Comcent - Secdash,1,Yes,automation|potential
+242,PSSW Comcent - Secdash,2,No,potential
+242,PSSW Comcent - Secdash,4,Cannot Automate,NA
+242,PSSW Comcent - Secdash,5,To Do,potential
+242,PSSW Comcent - Secdash,6,In Progress,potential
+240,PSSW Comcent - Support,1,Yes,automation|potential
+240,PSSW Comcent - Support,2,No,potential
+240,PSSW Comcent - Support,3,Partial,potential
+240,PSSW Comcent - Support,4,Cannot Automate,NA
+243,PSSW Comcent - Veneer Native,1,Yes,automation|potential
+243,PSSW Comcent - Veneer Native,2,No,potential
+243,PSSW Comcent - Veneer Native,4,Cannot Automate,NA
+29,PSSW Fusion,1,Yes,automation|potential
+29,PSSW Fusion,6,In Progress,potential
+34,PSSW HP Jumpstart,1,Yes,automation|potential
+34,PSSW HP Jumpstart,2,No,potential
+34,PSSW HP Jumpstart,4,Cannot Automate,NA
+34,PSSW HP Jumpstart,5,To Do,potential
+330,PSSW HP ProCloud,1,Complete,automation|potential
+30,PSSW Isen,1,Done,automation|potential
+30,PSSW Isen,2,,NA
+30,PSSW Isen,3,Partial,potential
+30,PSSW Isen,4,N/A,NA
+30,PSSW Isen,5,To Do,potential
+308,PSSW myHP-EliteBuds,2,No,potential
+308,PSSW myHP-EliteBuds,3,Partial,potential
+308,PSSW myHP-EliteBuds,4,Cannot Automate,NA
+308,PSSW myHP-EliteBuds,5,To Do,potential
+650,PyLens,1,Yes,automation|potential
+603,Ramon,1,Automated,automation|potential
+603,Ramon,2,To Do,potential
+603,Ramon,3,Manual,potential
+603,Ramon,4,Automation In-Progress,potential
+603,Ramon,5,Manual In-Progress,potential
+146,RCB Category TC,1,No,potential
+146,RCB Category TC,2,Yes,automation|potential
+235,RCB OEM,1,,NA
+247,Sanctuary,1,No,potential
+716,SAP CPQ,2,,NA
+218,Scan Software Solutions,1,Yes,automation|potential
+218,Scan Software Solutions,2,No,potential
+218,Scan Software Solutions,3,Partial,potential
+218,Scan Software Solutions,4,Cannot Automate,NA
+218,Scan Software Solutions,5,To Do,potential
+343,Sierra QA,1,Yes,automation|potential
+91,Sirius FW Products,1,,NA
+91,Sirius FW Products,2,,NA
+374,SIV Contractual 2022,1,,NA
+665,SIV Contractual 2024(Do not use),1,,NA
+665,SIV Contractual 2024(Do not use),2,,NA
+225,SIV SET,1,No,potential
+225,SIV SET,2,Yes,automation|potential
+717,Smart Driver QA,1,Yes,automation|potential
+717,Smart Driver QA,2,No,potential
+717,Smart Driver QA,5,To Do,potential
+643,Solution Test,1,100% - fully automated,automation|potential
+643,Solution Test,2,Do not plan to automate,NA
+643,Solution Test,3,0% - preparation required to make test automatable,potential
+643,Solution Test,4,30-50% - automation assets ready: test can be automated,potential
+643,Solution Test,10,Manual,potential
+643,Solution Test,11,To Be Automated,potential
+643,Solution Test,12,Automated,automation|potential
+149,SP - ALPACA (Consent Management),3,Manual,potential
+149,SP - ALPACA (Consent Management),4,Automated,automation|potential
+149,SP - ALPACA (Consent Management),5,Can't Automate,NA
+255,SP - PPC,3,Manual,potential
+255,SP - PPC,4,Automated,automation|potential
+2,SP - Sandbox,1,Automated - CATS,automation|potential
+2,SP - Sandbox,3,Manual,potential
+71,SP - SDMv2,1,Automated - CATS,automation|potential
+71,SP - SDMv2,3,Manual,potential
+554,Stratus Core - Admin Tool,1,Automated,automation|potential
+554,Stratus Core - Admin Tool,2,Pending to Automate,potential
+552,Stratus Core - Config Tool,1,Automated,automation|potential
+552,Stratus Core - Config Tool,2,Pending to Automate,potential
+629,SW Client Libraries,10,Manual,potential
+629,SW Client Libraries,11,To Be Automated,potential
+629,SW Client Libraries,12,Automated,automation|potential
+263,Thin Client Argon,1,None,potential
+263,Thin Client Argon,2,Design,NA
+263,Thin Client Argon,3,Ready,potential
+16,Titan,1,Yes,automation|potential
+16,Titan,2,No,potential
+175,UFD,2,Yes,automation|potential
+175,UFD,3,Partial,potential
+175,UFD,4,Cannot Automate,NA
+175,UFD,5,To Do,potential
+359,UPD QA,2,2 No,potential
+359,UPD QA,1,1 Yes,automation|potential
+359,UPD QA,3,3 Partial,potential
+359,UPD QA,4,4 Cannot Automate,NA
+359,UPD QA,5,5 To Do,potential
+359,UPD QA,6,6 In Progress,potential
+177,Vibhuti Platform,1,No,potential
+177,Vibhuti Platform,2,Yes,automation|potential
+177,Vibhuti Platform,4,Cannot Automate,NA
+177,Vibhuti Platform,5,To Do,potential
+177,Vibhuti Platform,6,In Progress,potential
+346,Virat QA,1,Yes,automation|potential
+346,Virat QA,4,Cannot Automate,NA
+727,WEX QA,10,Automation,automation|potential
+727,WEX QA,20,Manual,potential
+727,WEX QA,30,Partial Automation,potential
+727,WEX QA,40,Automation Pending,potential
+669,WEX QA Sandbox,10,Automation,automation|potential
+669,WEX QA Sandbox,20,Manual,potential
+728,WEXFIRE,10,Automation,automation|potential
+728,WEXFIRE,20,Manual,potential
+728,WEXFIRE,30,Partial Automation,potential
+728,WEXFIRE,40,Automation Pending,potential
+298,WJA,1,No,potential
+298,WJA,2,Yes,automation|potential
+298,WJA,3,Partial,potential
+298,WJA,4,Not Automatable,NA
+53,WPP,1,No,potential
+53,WPP,2,Yes,automation|potential
+53,WPP,3,Partial,potential
+53,WPP,4,Cannot Automate,NA
+13,WPP HPC Platform Scrum,1,No,potential
+13,WPP HPC Platform Scrum,2,Yes,automation|potential
+312,zBambi - HP200A (Archive),4,Cannot Automate,NA
+312,zBambi - HP200A (Archive),5,To Do,potential
+3,zSandbox - Test Suites Enabled,1,No,potential
+3,zSandbox - Test Suites Enabled,2,Yes,automation|potential
+3,zSandbox - Test Suites Enabled,3,Partial,potential
+3,zSandbox - Test Suites Enabled,4,Cannot Automate,NA
+3,zSandbox - Test Suites Enabled,5,To Do,potential
