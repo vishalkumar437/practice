@@ -1,4 +1,4 @@
-Year                                                                                                                             ,Quarter,QTR End,Sprint,,Fix Version,Next Quarter Planning,"BU Prioritization
+Year,Quarter,QTR End,Sprint,Timing,Fix Version,Next Quarter Planning,"BU Prioritization
 (Icebox + Rank Requested)",HPPS Prioritization (Icebox + Rank2),"Architecture Complete
 (Exit Review)",Planning Alignment (Ceremony),Planning Ready Checkpoint (Ceremony),"Work Breakdown Complete
 (Exit Analysis)",TofTs Prepare for Planning      (Offline Activity),Planning Kickoff (Ceremony),"Team 
@@ -103,4 +103,5 @@ Oct",31-Oct,2026Q4.1,Jul22 - Aug04,26Q4.08-Sep01,,May 12,May 26,Jun 23,Jul 8,Jul
 ,,,2026Q4.5,Sep16 - Sep29,,,,,,,,,,,,,,,,,,,,
 ,,,2026Q4.6,Sep30 - Oct13,26Q4.10-Oct27,,,,,,,,,,,,,,,,,,,
 ,,,2026Q4.7,Oct14 - Oct27,,,,,,,,,,,,,,,,,,,,
+
 
