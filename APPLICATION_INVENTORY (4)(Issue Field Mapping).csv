@@ -1,245 +1,245 @@
-Organization,Program,Scrum Team,Jira Project Name,Epic Fields,Initiative Fields,All other issue type other than Epic and Initiative,,,
-HPPS,Instant Services,Ghostbusters,Instant Ink Ghostbusters,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Instant Services,Madagascar,Instant Ink Madagascar,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Instant Services,Justice League,II Justice League - BE Printer,,,,,,
-HPPS,Instant Services,Legion of Doom,II Legion of Doom - BE Billing,,,,,,
-HPPS,Instant Services,Yogi's Gang,II Yogi's Gang,,,,,,
-HPPS,Instant Services,Garuda,IIGARUDA,,,,,,
-HPPS,Instant Services,Airavata,II Airavata,,,,,,
-HPPS,Instant Services,Aruna,IIARUNA,,,,,,
-HPPS,Instant Services,AST,AST,,,,,,
-HPPS,Instant Services,MNS,IIMNS,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX App - Android,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX App - Apple,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Dev Capabilities,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Windows - App Shell,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Windows - Jweb,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Campaigns - In App Delivery,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Campaigns - Orchestration,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Campaigns - Platf & Exp QA,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,First Use Flow,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Settings & Consent,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Unified My Account,HPXApps,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Device Mgmt & Experience,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Device Mgmt 2,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX DevOps,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Instrumentation,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,UI Toolkit,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HP Support Assistant,HP Support Assistant,HPX Support,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,AES,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,UCDE,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,Relationship,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,App Center,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,HPCC/ECP/WXP,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,Workpath App,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPPK,ENT DataScience,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Stratus IOT,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Connectivity IOT,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Data Processor,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Data Telemetry,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Gen 2,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Print Cloud Security,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Cloud & Connectivity,Print Services,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team,,,
+Organization,Program,Scrum Team,Jira Project Name,Epic Fields,Initiative Fields,All other issue type other than Epic and Initiative
+HPPS,Instant Services,Ghostbusters,Instant Ink Ghostbusters,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Instant Services,Madagascar,Instant Ink Madagascar,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Instant Services,Justice League,II Justice League - BE Printer,,,
+HPPS,Instant Services,Legion of Doom,II Legion of Doom - BE Billing,,,
+HPPS,Instant Services,Yogi's Gang,II Yogi's Gang,,,
+HPPS,Instant Services,Garuda,IIGARUDA,,,
+HPPS,Instant Services,Airavata,II Airavata,,,
+HPPS,Instant Services,Aruna,IIARUNA,,,
+HPPS,Instant Services,AST,AST,,,
+HPPS,Instant Services,MNS,IIMNS,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX App - Android,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX App - Apple,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Dev Capabilities,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Windows - App Shell,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Windows - Jweb,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Campaigns - In App Delivery,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Campaigns - Orchestration,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Campaigns - Platf & Exp QA,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,First Use Flow,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Settings & Consent,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Unified My Account,HPXApps,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Device Mgmt & Experience,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Device Mgmt 2,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX DevOps,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Instrumentation,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,UI Toolkit,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HP Support Assistant,HP Support Assistant,HPX Support,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,AES,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,UCDE,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,Relationship,HPPS Domain Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,App Center,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,HPCC/ECP/WXP,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,Workpath App,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPPK,ENT DataScience,HPPS Enterprise Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Stratus IOT,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Connectivity IOT,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Data Processor,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Data Telemetry,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Gen 2,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Print Cloud Security,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Cloud & Connectivity,Print Services,HPPS Cloud & Connectivity,Delivery Teams,Participating ToFTs,Scrum Team
 HPPS,AIP,Simpsons,"Channel Enabler Smooth Transition,Subscription State Service,Fulfillment Registry Service
-",,,,,,
-HPPS,AIP,Thundercats,Thundercats Team,,,,,,
-HPPS,AIP,Rabbit Rangers,HPOne Biz Ops Tooling,,,,,,
-HPPS,AIP,Mercury,Communication Services,,,,,,
-HPPS,AIP,OBC,On-Books Domain Controller,,,,,,
-HPPS,AIP,Super Sayans,Magento PIM Catalog,,,,,,
-HPPS,AIP,OPSSVC_Scrum,Order Processing Service,,,,,,
-HPPS,AIP,CommerceBL,Stratus Commerce BL Services,,,,,,
-HPPS,AIP,Genesis,LTO-AIC_Commerce_Report_Data/Genesis,,,,,,
-HPPS,AIP,StoreFront,Magento FE team,,,,,,
-HPPS,HPID - MyCredentials|MyAccount,myCredentials,myCredentials,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPID - MyCredentials|MyAccount,myAccount,myAccount,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPID - MyIdentity,myIdentity,myIdentity,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,Sage,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,Pepto,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,Enterprise,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,Privacy Engineering,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,DPF,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,EUDA,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Platform Engineering,Data Quality,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,China Solutions,WeChat App,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,China Solutions,China Services,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,China Solutions,HarmonyOS App,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,China Solutions,China App Android,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,China Solutions,China App iOS,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,SUPD,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,UPD,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,IO,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,Sierra Cloud Rendering,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,Imaging (SDK),HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,Shortcuts & Cloud Services,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,HP Linux Driver,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,USS,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,Karnak Lite,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,OEM,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,Universal Fax Driver,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,SmartDriver,HP POTG Smart Driver,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Core Print & Imaging,OPTI (Optimus) ,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,CSDP,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,DST,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,ETL West,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,ETL East,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,LF,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,Illuminators,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,Data Forge,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,RCB Ref Tool,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,RCB (BNG),HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,CASCD,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data Product Engineering,EEDDP,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HP Smart Portals,SMB/Consolidated Portal,Account Experience,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Defender,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Spectrum,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Zone Team,HPIP DevInfra,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Maersk/KubeKrew,OneCloud Infrastructure,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Wizards,"OneCloud Core Services,Stratus Integration & Data Services",Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,LittleJohn,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,MaLiang,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,MasterPO,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Inspire,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
+",,,
+HPPS,AIP,Thundercats,Thundercats Team,,,
+HPPS,AIP,Rabbit Rangers,HPOne Biz Ops Tooling,,,
+HPPS,AIP,Mercury,Communication Services,,,
+HPPS,AIP,OBC,On-Books Domain Controller,,,
+HPPS,AIP,Super Sayans,Magento PIM Catalog,,,
+HPPS,AIP,OPSSVC_Scrum,Order Processing Service,,,
+HPPS,AIP,CommerceBL,Stratus Commerce BL Services,,,
+HPPS,AIP,Genesis,LTO-AIC_Commerce_Report_Data/Genesis,,,
+HPPS,AIP,StoreFront,Magento FE team,,,
+HPPS,HPID - MyCredentials|MyAccount,myCredentials,myCredentials,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPID - MyCredentials|MyAccount,myAccount,myAccount,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPID - MyIdentity,myIdentity,myIdentity,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,Sage,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,Pepto,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,Enterprise,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,Privacy Engineering,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,DPF,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,EUDA,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Platform Engineering,Data Quality,HPPS Data Platform Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,China Solutions,WeChat App,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,China Solutions,China Services,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,China Solutions,HarmonyOS App,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,China Solutions,China App Android,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,China Solutions,China App iOS,HPPS China Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,SUPD,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,UPD,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,IO,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,Sierra Cloud Rendering,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,Imaging (SDK),HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,Shortcuts & Cloud Services,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,HP Linux Driver,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,USS,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,Karnak Lite,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,OEM,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,Universal Fax Driver,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,SmartDriver,HP POTG Smart Driver,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Core Print & Imaging,OPTI (Optimus) ,HPPS Core Print & Imaging,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,CSDP,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,DST,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,ETL West,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,ETL East,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,LF,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,Illuminators,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,Data Forge,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,RCB Ref Tool,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,RCB (BNG),HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,CASCD,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data Product Engineering,EEDDP,HPPS Data Product Engineering,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HP Smart Portals,SMB/Consolidated Portal,Account Experience,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Defender,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Spectrum,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Zone Team,HPIP DevInfra,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Maersk/KubeKrew,OneCloud Infrastructure,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Wizards,"OneCloud Core Services,Stratus Integration & Data Services",Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,LittleJohn,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,MaLiang,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,MasterPO,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Inspire,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
 HPPS,OneCloud,Warriors,"Stratus Device Cache,
 HPOne Generic history template,
 Transactional PC Ingestion Svc,
-OneCloud Core Services",Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,API Management,API MANAGEMENT,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Codeway,CodeWay,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Platform Tools,TIO Platform Tools,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Phoenix,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Artificers(DevOPS),OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Web Solutions,Shortcuts,HPPS Web Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Web Solutions,SoftFax,HPPS Web Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Print - Apple,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Print - Android,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HPX Windows - Print Core,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,HP Smart (Gotham),HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,Easy Start for Mac (Seahawk),HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Analytics & Insights,Business Insights,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Analytics & Insights,Phoenix/Print & Platform Analytics,Team Phoenix,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Analytics & Insights,Business Intelligence,Visualization + ADEV,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Analytics & Insights,Data Readiness,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Analytics & Insights,Advanced Analytics,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,AEC solutions,HP Click,LFP Click-Machan,,,,,,
+OneCloud Core Services",Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,API Management,API MANAGEMENT,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Codeway,CodeWay,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Platform Tools,TIO Platform Tools,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Phoenix,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Artificers(DevOPS),OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Web Solutions,Shortcuts,HPPS Web Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Web Solutions,SoftFax,HPPS Web Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Print - Apple,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Print - Android,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HPX Windows - Print Core,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,HP Smart (Gotham),HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,Easy Start for Mac (Seahawk),HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Analytics & Insights,Business Insights,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Analytics & Insights,Phoenix/Print & Platform Analytics,Team Phoenix,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Analytics & Insights,Business Intelligence,Visualization + ADEV,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Analytics & Insights,Data Readiness,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Analytics & Insights,Advanced Analytics,Big Data Analytics,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,AEC solutions,HP Click,LFP Click-Machan,,,
 HPPS,AEC solutions,Host Solutions backend,"LFP Job Submission,
-LFP Skylon",,,,,,
-HPPS,AEC solutions,PSA & driver,LFP Job Submission,,,,,,
-HPPS,AEC solutions,Fleet mgmt,LFP PrintOS,,,,,,
-HPPS,AEC solutions,Collaboration,Collaboration - HP Build Workspace,,,,,,
-HPPS,AEC solutions,Smart Digitization-AI Team [SMRTDIG],Smart Digitization,,,,,,
-HPPS,AEC solutions,Drawings Management,Plans Management,,,,,,
-HPPS,AEC solutions,SitePrint Cloud,LFP Construction Site,,,,,,
-HPPS,AEC solutions,SitePrint Plugins and Job Preparation,LFP Construction Site,,,,,,
-HPPS,AEC solutions,Monetization and WS Management,AECP Platform,,,,,,
-HPPS,AEC solutions,Platform Engineering,AECP Platform,,,,,,
-HPPS,PSP Solutions,LF Production Hub Portal & Platform engineering,PSP SW Production Hub (PLATFORM TEAM),,,,,,
-HPPS,PSP Solutions,Orders W2P,PSP SW Orders,,,,,,
-HPPS,PSP Solutions,LF- Fleet mgmt (Monitoring & Control) and Biz Analytics,Device Queue Monitor&Control,,,,,,
-HPPS,PSP Solutions,Quotation,Device Queue Monitor&Control,,,,,,
-HPPS,PSP Solutions,IPS,LFP Job Submission,,,,,,
-HPPS,PSP Solutions,SDK,LFP PrintOS,,,,,,
-HPPS,Setup & Onboarding,Onboarding Landing Experience,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Setup & Onboarding,Onboarding MFEs,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Setup & Onboarding,Onboarding Director,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Shared Services,Team Inspire,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Shared Services,Team Warriors,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data & AI Core Technology,Cressida,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data & AI Core Technology,Draco,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data & AI Core Technology,Cygnus,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Data & AI Core Technology,Hydra,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,HPX,PSDR,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,SI QUALITY,SI Quality,Ecosystem Integration Testing,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Setup & Onboarding,Print Core Onboarding Services,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team,,,
-PSSW,OMEN Gaming,OMEN Gaming Hub,,,,,,,
-PSSW,OMEN Gaming,Tree House,,,,,,,
-PSSW,PS Core,hpx-winclient,HPX-WinClient,,,,,,
-PSSW,PS Core,AVX-Servo,HPX-WinClient,,,,,,
-PSSW,PS Core,Pphls -RisingPhoenix,HPX-WinClient,,,,,,
-PSSW,PS Core,SmartX - Jaguar,HPX-WinClient,,,,,,
-PSSW,PS Core,SysCtrl - Astra,HPX-WinClient,,,,,,
-PSSW,PS Core,SysCtrl - Ninjas,HPX-WinClient,,,,,,
-PSSW,PS Core,Pphls- SigmaMinds,HPX-WinClient,,,,,,
-PSSW,PS Core,TPE Development,HPX-WinClient,,,,,,
-PSSW,PS Core,ExtDisp-Crow,HPX-WinClient,,,,,,
-PSSW,PS Core,ASQE,AS Quality Engineering,,,,,,
-HPS,FrameworkCore,FrameworkCore,WXP SS FrameworkCore,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Partner CX,Partner CX,WXP SS Partner CX,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,FM Agent ,FM Agent ,WXP Agent,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Core CX,Core CX,WXP SS Core CX,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,FM Insights,FM Insights,WorkForceExp FM Insights,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Realtime Insights,Realtime Insights,WXP Realtime Insights,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Remediation,Remediation,WXP Remediations Automation,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,DEX Score + App Insights,DEX Score + App Insights,WorkForceExp DEX Score + Analytics,Scrum Team,Scrum Team,Scrum Team,,,
-PSSW,PS Data Enablement,PS Data Infrastructure,PS DATA INFRA,,,,,,
-PSSW,PS Data Enablement,PS Data Engineering,PS DATA PRODUCTS,,,,,,
-PSSW,China Solutions Projects,Xiaowei Intel,Xiaowei Intel,,,,,,
-PSSW,China Solutions Projects,HPStore & EQCODE,HPStore&QR-Code,,,,,,
-PSSW,China Solutions Projects,Xiaohui AMD,XiaoHui AMD,,,,,,
-PSSW,China Solutions Projects,Horizon China,Horizon China,,,,,,
-HPPS,LF Software,Platform Engineering Team,LF Software,,,,,,
-HPPS,LF Software,Monetization and WS Management,LF Software,,,,,,
-HPPS,LF Software,Collaboration,LF Software,,,,,,
-HPPS,LF Software,Drawings Management,LF Software,,,,,,
-HPPS,LF Software,Smart Digitization -ML,LF Software,,,,,,
-HPPS,LF Software,Siteprint Cloud,LF Software,,,,,,
-HPPS,LF Software,Siteprint Plugins,LF Software,,,,,,
-HPPS,LF Software,HP Click,LF Software,,,,,,
-HPPS,LF Software,Host Solutions Backend,LF Software,,,,,,
-HPPS,LF Software,PSA and Driver,LF Software,,,,,,
-HPPS,LF Software,Fleet Management,LF Software,,,,,,
-HPPS,LF Software,LF Production Hub and Platform Engineering,LF Software,,,,,,
-HPPS,LF Software,Orders W2P,LF Software,,,,,,
-HPPS,LF Software,LF - Fleet Mgmt,LF Software,,,,,,
-HPPS,LF Software,Quotation,LF Software,,,,,,
-HPPS,LF Software,IPS,LF Software,,,,,,
-HPPS,LF Software,SDK,LF Software,,,,,,
-HPPS,LF Software,Cloud Devops,LF Software,,,,,,
-HPPS,LF Software,Host Devops,LF Software,,,,,,
-HPPS,Print Firmware,Print Firmware,Print Firmware,,,,,,
-HPPS,HPX,Client OS,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,Setup & Onboarding,OWS(Classic),HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team,,,
-PSSW,Data Analytics and Insights,Data Analytics,PS DATA ANALYTICS,,,,,,
-HPPS,Industrial Print Software and Solutions,Industrial Print Software and Solutions,Industrial Print Software and Solutions,Delivery Teams,Participating ToFTs,Scrum Team,,,
-PSSW,ACS Projects,Team Cloud RSM,,,,,,,
-PSSW,ACS Projects,Team Remote System Controller,,,,,,,
-PSSW,ACS Projects,Team On-Prem RSM,,,,,,,
-PSSW,ACS Projects,Team HP Boost,,,,,,,
-PSSW,ACS Projects,Team Cyclops,,,,,,,
-HPS,Active Care,Active Care,WorkForceExp FM Active Care,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Active Care D&TO,Active Care D&TO,WEX AC-D&TO,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Active Care Scaling,Active Care Scaling,ActiveCare Scaling,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Account Management,Account Management,WXP SS Account Managment,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Emp Engagements Pulses,Employee Engagements Pulses,WEX Employee Engagement - Pulses,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Policy Based Remediation,Policy Based Remediation,WorkForceExp FM Policy Based Remediation,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Meta Services + Assets,WXP SS Meta Services,WXP SS Meta Services,Scrum Team,Scrum Team,Scrum Team,,,
-HPS,Meta Services + Assets,WXP SS Asset Inventory Ingestion,WXP SS Asset Inventory Ingestion,Scrum Team,Scrum Team,Scrum Team,,,
-PSSW,PC Performance Projects,Carrera,,,,,,,
-PSSW,PC Performance Projects,Orion AI,Orion AI - Applied AI/ML Team BR,,,,,,
-PSSW,PS Solution Enablement Projects,Perform Services - Carrera AI,,,,,,,
-PSSW,PS Solution Enablement Projects,OMEN AI Models,,,,,,,
-PSSW,PS Solution Enablement Projects,OMEN AI Case Studies,,,,,,,
-PSSW,PS Solution Enablement Projects,Voice Services 2.0,,,,,,,
-PSSW,PS Solution Enablement Projects,Document Analysis Local 2.0,,,,,,,
-PSSW,PS Solution Enablement Projects,Content Generation 2.0,,,,,,,
-PSSW,PS Solution Enablement Projects,Orchestrated Multi-hop Agents with Contextual Memory Modules,,,,,,,
-PSSW,PS Solution Enablement Projects,Austin Automation Lab,,,,,,,
-PSSW,PS Solution Enablement Projects,Personal Chief of Staff,,,,,,,
-PSSW,PS Solution Enablement Projects,P2P Flooding Attack Mitigation for Better Together,,,,,,,
-PSSW,PS Solution Enablement Projects,HPWCEM Templates Generator,,,,,,,
-PSSW,PS Solution Enablement Projects,Initium,Initium,,,,,,
-PSSW,PS Solution Enablement Projects,HP PRO Solution,HP PRO Solution,,,,,,
-PSSW,PS Solution Enablement Projects,TIO PSSW Infra,TIO PSSW Infra,,,,,,
-PSSW,PS Data Enablement,PS Data Engineering - OMEN,PS OMEN DATA ENG,,,,,,
-PSSW,ACS Projects,Team Boost Orchestration,,,,,,,
-PSSW,ACS Projects,Team Wolverine,,,,,,,
-HPS,Connectors API & Dev Portal,Connectors API & Dev Portal,"WXP SS Connectors, APIs & Dev Portal",Scrum Team,Scrum Team,Scrum Team,,,
-PSSW,OnDevice Framework,HPOneAgent,HPOne Windows Agent,,,,,,
-PSSW,OnDevice Framework,AI Cloud & ISV Services,HPOne Windows Agent,,,,,,
-PSSW,OnDevice Framework,ODF System Integration,QA-AITools,,,,,,
-PSSW,OnDevice Framework,Carrera,Carrera,,,,,,
-PSSW,OnDevice Framework,PSSW AIServices,LLMS,,,,,,
-PSSW,OnDevice Framework,Orion AI,Orion AI - Applied AI/ML Team BR,,,,,,
-PSSW,OnDevice Framework,Cloud Services Integration,Orion,,,,,,
-HPPS,HPX,HPX AA - JWeb,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team,,,
-HPPS,OneCloud,Nocturne,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team,,,
+LFP Skylon",,,
+HPPS,AEC solutions,PSA & driver,LFP Job Submission,,,
+HPPS,AEC solutions,Fleet mgmt,LFP PrintOS,,,
+HPPS,AEC solutions,Collaboration,Collaboration - HP Build Workspace,,,
+HPPS,AEC solutions,Smart Digitization-AI Team [SMRTDIG],Smart Digitization,,,
+HPPS,AEC solutions,Drawings Management,Plans Management,,,
+HPPS,AEC solutions,SitePrint Cloud,LFP Construction Site,,,
+HPPS,AEC solutions,SitePrint Plugins and Job Preparation,LFP Construction Site,,,
+HPPS,AEC solutions,Monetization and WS Management,AECP Platform,,,
+HPPS,AEC solutions,Platform Engineering,AECP Platform,,,
+HPPS,PSP Solutions,LF Production Hub Portal & Platform engineering,PSP SW Production Hub (PLATFORM TEAM),,,
+HPPS,PSP Solutions,Orders W2P,PSP SW Orders,,,
+HPPS,PSP Solutions,LF- Fleet mgmt (Monitoring & Control) and Biz Analytics,Device Queue Monitor&Control,,,
+HPPS,PSP Solutions,Quotation,Device Queue Monitor&Control,,,
+HPPS,PSP Solutions,IPS,LFP Job Submission,,,
+HPPS,PSP Solutions,SDK,LFP PrintOS,,,
+HPPS,Setup & Onboarding,Onboarding Landing Experience,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Setup & Onboarding,Onboarding MFEs,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Setup & Onboarding,Onboarding Director,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Shared Services,Team Inspire,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Shared Services,Team Warriors,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data & AI Core Technology,Cressida,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data & AI Core Technology,Draco,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data & AI Core Technology,Cygnus,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Data & AI Core Technology,Hydra,LF Big Data,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,HPX,PSDR,HPPS App Tech Windows,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,SI QUALITY,SI Quality,Ecosystem Integration Testing,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Setup & Onboarding,Print Core Onboarding Services,HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team
+PSSW,OMEN Gaming,OMEN Gaming Hub,,,,
+PSSW,OMEN Gaming,Tree House,,,,
+PSSW,PS Core,hpx-winclient,HPX-WinClient,,,
+PSSW,PS Core,AVX-Servo,HPX-WinClient,,,
+PSSW,PS Core,Pphls -RisingPhoenix,HPX-WinClient,,,
+PSSW,PS Core,SmartX - Jaguar,HPX-WinClient,,,
+PSSW,PS Core,SysCtrl - Astra,HPX-WinClient,,,
+PSSW,PS Core,SysCtrl - Ninjas,HPX-WinClient,,,
+PSSW,PS Core,Pphls- SigmaMinds,HPX-WinClient,,,
+PSSW,PS Core,TPE Development,HPX-WinClient,,,
+PSSW,PS Core,ExtDisp-Crow,HPX-WinClient,,,
+PSSW,PS Core,ASQE,AS Quality Engineering,,,
+HPS,FrameworkCore,FrameworkCore,WXP SS FrameworkCore,Scrum Team,Scrum Team,Scrum Team
+HPS,Partner CX,Partner CX,WXP SS Partner CX,Scrum Team,Scrum Team,Scrum Team
+HPS,FM Agent ,FM Agent ,WXP Agent,Scrum Team,Scrum Team,Scrum Team
+HPS,Core CX,Core CX,WXP SS Core CX,Scrum Team,Scrum Team,Scrum Team
+HPS,FM Insights,FM Insights,WorkForceExp FM Insights,Scrum Team,Scrum Team,Scrum Team
+HPS,Realtime Insights,Realtime Insights,WXP Realtime Insights,Scrum Team,Scrum Team,Scrum Team
+HPS,Remediation,Remediation,WXP Remediations Automation,Scrum Team,Scrum Team,Scrum Team
+HPS,DEX Score + App Insights,DEX Score + App Insights,WorkForceExp DEX Score + Analytics,Scrum Team,Scrum Team,Scrum Team
+PSSW,PS Data Enablement,PS Data Infrastructure,PS DATA INFRA,,,
+PSSW,PS Data Enablement,PS Data Engineering,PS DATA PRODUCTS,,,
+PSSW,China Solutions Projects,Xiaowei Intel,Xiaowei Intel,,,
+PSSW,China Solutions Projects,HPStore & EQCODE,HPStore&QR-Code,,,
+PSSW,China Solutions Projects,Xiaohui AMD,XiaoHui AMD,,,
+PSSW,China Solutions Projects,Horizon China,Horizon China,,,
+HPPS,LF Software,Platform Engineering Team,LF Software,,,
+HPPS,LF Software,Monetization and WS Management,LF Software,,,
+HPPS,LF Software,Collaboration,LF Software,,,
+HPPS,LF Software,Drawings Management,LF Software,,,
+HPPS,LF Software,Smart Digitization -ML,LF Software,,,
+HPPS,LF Software,Siteprint Cloud,LF Software,,,
+HPPS,LF Software,Siteprint Plugins,LF Software,,,
+HPPS,LF Software,HP Click,LF Software,,,
+HPPS,LF Software,Host Solutions Backend,LF Software,,,
+HPPS,LF Software,PSA and Driver,LF Software,,,
+HPPS,LF Software,Fleet Management,LF Software,,,
+HPPS,LF Software,LF Production Hub and Platform Engineering,LF Software,,,
+HPPS,LF Software,Orders W2P,LF Software,,,
+HPPS,LF Software,LF - Fleet Mgmt,LF Software,,,
+HPPS,LF Software,Quotation,LF Software,,,
+HPPS,LF Software,IPS,LF Software,,,
+HPPS,LF Software,SDK,LF Software,,,
+HPPS,LF Software,Cloud Devops,LF Software,,,
+HPPS,LF Software,Host Devops,LF Software,,,
+HPPS,Print Firmware,Print Firmware,Print Firmware,,,
+HPPS,HPX,Client OS,HPPS HP App Horizontal,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,Setup & Onboarding,OWS(Classic),HPPS Setup & Onboarding,Delivery Teams,Participating ToFTs,Scrum Team
+PSSW,Data Analytics and Insights,Data Analytics,PS DATA ANALYTICS,,,
+HPPS,Industrial Print Software and Solutions,Industrial Print Software and Solutions,Industrial Print Software and Solutions,Delivery Teams,Participating ToFTs,Scrum Team
+PSSW,ACS Projects,Team Cloud RSM,,,,
+PSSW,ACS Projects,Team Remote System Controller,,,,
+PSSW,ACS Projects,Team On-Prem RSM,,,,
+PSSW,ACS Projects,Team HP Boost,,,,
+PSSW,ACS Projects,Team Cyclops,,,,
+HPS,Active Care,Active Care,WorkForceExp FM Active Care,Scrum Team,Scrum Team,Scrum Team
+HPS,Active Care D&TO,Active Care D&TO,WEX AC-D&TO,Scrum Team,Scrum Team,Scrum Team
+HPS,Active Care Scaling,Active Care Scaling,ActiveCare Scaling,Scrum Team,Scrum Team,Scrum Team
+HPS,Account Management,Account Management,WXP SS Account Managment,Scrum Team,Scrum Team,Scrum Team
+HPS,Emp Engagements Pulses,Employee Engagements Pulses,WEX Employee Engagement - Pulses,Scrum Team,Scrum Team,Scrum Team
+HPS,Policy Based Remediation,Policy Based Remediation,WorkForceExp FM Policy Based Remediation,Scrum Team,Scrum Team,Scrum Team
+HPS,Meta Services + Assets,WXP SS Meta Services,WXP SS Meta Services,Scrum Team,Scrum Team,Scrum Team
+HPS,Meta Services + Assets,WXP SS Asset Inventory Ingestion,WXP SS Asset Inventory Ingestion,Scrum Team,Scrum Team,Scrum Team
+PSSW,PC Performance Projects,Carrera,,,,
+PSSW,PC Performance Projects,Orion AI,Orion AI - Applied AI/ML Team BR,,,
+PSSW,PS Solution Enablement Projects,Perform Services - Carrera AI,,,,
+PSSW,PS Solution Enablement Projects,OMEN AI Models,,,,
+PSSW,PS Solution Enablement Projects,OMEN AI Case Studies,,,,
+PSSW,PS Solution Enablement Projects,Voice Services 2.0,,,,
+PSSW,PS Solution Enablement Projects,Document Analysis Local 2.0,,,,
+PSSW,PS Solution Enablement Projects,Content Generation 2.0,,,,
+PSSW,PS Solution Enablement Projects,Orchestrated Multi-hop Agents with Contextual Memory Modules,,,,
+PSSW,PS Solution Enablement Projects,Austin Automation Lab,,,,
+PSSW,PS Solution Enablement Projects,Personal Chief of Staff,,,,
+PSSW,PS Solution Enablement Projects,P2P Flooding Attack Mitigation for Better Together,,,,
+PSSW,PS Solution Enablement Projects,HPWCEM Templates Generator,,,,
+PSSW,PS Solution Enablement Projects,Initium,Initium,,,
+PSSW,PS Solution Enablement Projects,HP PRO Solution,HP PRO Solution,,,
+PSSW,PS Solution Enablement Projects,TIO PSSW Infra,TIO PSSW Infra,,,
+PSSW,PS Data Enablement,PS Data Engineering - OMEN,PS OMEN DATA ENG,,,
+PSSW,ACS Projects,Team Boost Orchestration,,,,
+PSSW,ACS Projects,Team Wolverine,,,,
+HPS,Connectors API & Dev Portal,Connectors API & Dev Portal,"WXP SS Connectors, APIs & Dev Portal",Scrum Team,Scrum Team,Scrum Team
+PSSW,OnDevice Framework,HPOneAgent,HPOne Windows Agent,,,
+PSSW,OnDevice Framework,AI Cloud & ISV Services,HPOne Windows Agent,,,
+PSSW,OnDevice Framework,ODF System Integration,QA-AITools,,,
+PSSW,OnDevice Framework,Carrera,Carrera,,,
+PSSW,OnDevice Framework,PSSW AIServices,LLMS,,,
+PSSW,OnDevice Framework,Orion AI,Orion AI - Applied AI/ML Team BR,,,
+PSSW,OnDevice Framework,Cloud Services Integration,Orion,,,
+HPPS,HPX,HPX AA - JWeb,HPPS App Tech Apple Android,Delivery Teams,Participating ToFTs,Scrum Team
+HPPS,OneCloud,Nocturne,OneCloud Core Services,Delivery Teams,Participating ToFTs,Scrum Team
